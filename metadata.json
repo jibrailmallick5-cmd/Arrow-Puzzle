@@ -1,0 +1,8 @@
+{
+  "name": "Arrow Puzzle",
+  "description": "3D Arrow Escape Puzzle Game with 1,000+ validated levels, daily challenges, tournaments, and interactive tutorial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
